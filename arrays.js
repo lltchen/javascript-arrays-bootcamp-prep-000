@@ -6,3 +6,11 @@ var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 
 var clocolateBars = ['snickers', 'hundred grand','kitkat', 'skittles'];
+
+ function addElementToBeginningOfArray(clocolateBars,"m&ms") {
+   clocolateBars.push("m&ms")
+}
+
+function destructivelyAddElementToBeginningOfArray() {
+
+}
