@@ -8,7 +8,8 @@ var ingredient6 = "garlic"
 var chocolateBars =  ['snickers', 'hundred grand','kitkat', 'skittles']
 
 var array = ["apple","orange", "pineapple"]
- function addElementToBeginningOfArray(clocolateBars,"m&ms") {
+var element = "grape"
+ function addElementToBeginningOfArray(array,element) {
    clocolateBars.push("m&ms")
 }
 
