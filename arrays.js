@@ -10,7 +10,7 @@ var chocolateBars =  ['snickers', 'hundred grand','kitkat', 'skittles']
 var array = ["apple","orange", "pineapple"]
 var element = "grape"
  function addElementToBeginningOfArray(array, element) {
-   array.push(element)
+   array.push(`${element}`)
 }
 
 function destructivelyAddElementToBeginningOfArray() {
