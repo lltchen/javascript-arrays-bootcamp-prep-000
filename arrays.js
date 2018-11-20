@@ -5,9 +5,9 @@ var ingredient4 = "butter"
 var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 
-var clocolateBars = ['snickers', 'hundred grand','kitkat', 'skittles']
+var clocolateBars = new array ['snickers', 'hundred grand','kitkat', 'skittles']
 
-var array 
+var array
  function addElementToBeginningOfArray(clocolateBars,"m&ms") {
    clocolateBars.push("m&ms")
 }
