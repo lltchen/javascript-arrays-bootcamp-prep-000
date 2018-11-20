@@ -9,8 +9,8 @@ var chocolateBars =  ['snickers', 'hundred grand','kitkat', 'skittles']
 
 var array = ["apple","orange", "pineapple"]
 var element = "grape"
- function addElementToBeginningOfArray(array,element) {
-   clocolateBars.push("m&ms")
+ function addElementToBeginningOfArray(array, element) {
+   array.push(element)
 }
 
 function destructivelyAddElementToBeginningOfArray() {
