@@ -5,7 +5,7 @@ var ingredient4 = "butter"
 var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 
-var clocolateBars = new array ['snickers', 'hundred grand','kitkat', 'skittles']
+var chocolateBars =  ['snickers', 'hundred grand','kitkat', 'skittles']
 
 var array
  function addElementToBeginningOfArray(clocolateBars,"m&ms") {
